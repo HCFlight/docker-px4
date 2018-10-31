@@ -6,7 +6,7 @@ Build docker image for px4 Firmware build-environment
 ```bash
 cd ~/
 
-git clone https://github.com/YuanfuC/docker-px4.git
+git clone https://github.com/HCFlight/docker-px4.git
 ```
 
 ## 准备工作
